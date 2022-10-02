@@ -6,7 +6,7 @@
   <br />
   <img height="75" alt="My Name is Salvi and I make games" src="assets/personal.png" />
   <img height="75" alt="Eatrhbound ness" src="assets/ness.gif" />
-  <img height="75" alt="cool rat walking with a briefcase" src="assets/rat.gif" />
+  <img height="70" alt="cool rat walking with a briefcase" src="assets/rat.gif" />
   <br />
   <img src="assets/div.gif?raw=true" style="max-width: 100%;" />
 </div>
