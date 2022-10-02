@@ -53,5 +53,5 @@
   <img src="assets/div.gif?raw=true" style="max-width: 100%;" />
   <br />
   <img src="assets/thanks.gif" style="max-width: 100%;" />
-  <img src="assets/heart.gif" style="max-width: 100%;" />
+  <img height="100" src="assets/heart.gif" style="max-width: 100%;" />
 </div>
