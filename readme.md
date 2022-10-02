@@ -49,4 +49,4 @@
 </td>
 </tr>
 </table>
-<img src="assets/div.gif?raw=true" style="max-width: 100%;" />
+<img align="center" src="assets/div.gif?raw=true" style="max-width: 100%;" />
