@@ -8,5 +8,6 @@
   <br />
   <br />
   <img height="75" alt="cool rat walking with a briefcase" src="assets/rat.gif" />
+  <br />
   <img style="max-width: 100%;" src="assets/div.gif" />
 </div>
