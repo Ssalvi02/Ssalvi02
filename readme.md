@@ -51,4 +51,6 @@
 </table>
 <div align= "center">
   <img src="assets/div.gif?raw=true" style="max-width: 100%;" />
+  <img src="assets/thanks.gif" style="max-width: 100%;" />
+
 </div>
