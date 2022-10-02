@@ -4,7 +4,7 @@
   <br />
   <br />
   <img height="100" alt="My Name is Salvi and I make games" src="assets/personal.png" />
-  <img height="50" alt="Eatrhbound ness" src="assets/ness.gif" />
+  <img height="100" alt="Eatrhbound ness" src="assets/ness.gif" />
   <br />
   <br />
 
