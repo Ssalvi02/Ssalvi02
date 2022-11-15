@@ -19,7 +19,7 @@
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="https://allmylinks.com/ssalvi">
+<a href="https://linktr.ee/ssalvi">
 <strong>All my links!</strong>
 <br />
 <br />
