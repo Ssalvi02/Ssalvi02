@@ -1,12 +1,11 @@
 <div align="center">
-  <img src="assets/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="assets/welcome.png?raw=true" style="max-width: 50%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
   <img src="assets/div.gif?raw=true" style="max-width: 100%;" />
   <br />
   <img height="75" alt="My Name is Salvi and I make games" src="assets/personal.png" />
   <img height="75" alt="Eatrhbound ness" src="assets/ness.gif" />
-  <img height="75" alt="Eatrhbound ness" src="assets/crash.gif" />
   <img height="60" alt="cool rat walking with a briefcase" src="assets/rat.gif" />
   <br />
   <img src="assets/div.gif?raw=true" style="max-width: 100%;" />
