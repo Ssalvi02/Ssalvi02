@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Ssalvi02/Ssalvi02/blob/main/assets/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="assets/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
   <img src="assets/div.gif?raw=true" style="max-width: 100%;" />
